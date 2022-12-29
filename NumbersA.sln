@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersATasks", "NumbersATasks\NumbersATasks.csproj", "{FF3C52E1-0E37-4F6A-9C60-406AFFFAEE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersATasks.Tests", "NumbersATasks.Tests\NumbersATasks.Tests.csproj", "{492A6470-FBAD-40E1-8FA9-6F3F3780EEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3C52E1-0E37-4F6A-9C60-406AFFFAEE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3C52E1-0E37-4F6A-9C60-406AFFFAEE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3C52E1-0E37-4F6A-9C60-406AFFFAEE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3C52E1-0E37-4F6A-9C60-406AFFFAEE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492A6470-FBAD-40E1-8FA9-6F3F3780EEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492A6470-FBAD-40E1-8FA9-6F3F3780EEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492A6470-FBAD-40E1-8FA9-6F3F3780EEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492A6470-FBAD-40E1-8FA9-6F3F3780EEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8E6AAA-E664-4505-A618-C8B4C4DC2D94}
+	EndGlobalSection
+EndGlobal
